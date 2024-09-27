@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mstantongeddes
-- 👀 I’m interested in aviation economics, trade economics, and gravity models.
+- 👀 I’m interested in industrial organisation, trade economics, and gravity models.
 - 🌱 I’m currently learning Quarto, just at the top of a long list. 
 - 💞️ I’m looking to collaborate on research on regulatory capture and rent-seeking.
 
